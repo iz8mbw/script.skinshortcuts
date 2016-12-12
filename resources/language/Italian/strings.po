@@ -399,7 +399,7 @@ msgstr "Installa l'add-on 'Kodi Log Uploader' per fornire con semplicità log di
 
 msgctxt "#32095"
 msgid "Choose default action for menu item"
-msgstr "Scegli l'azione predefinita per l'oggetto di menù"
+msgstr "Scegli l'azione predefinita per l'elemento di menù"
 
 msgctxt "#32096"
 msgid "Browse
